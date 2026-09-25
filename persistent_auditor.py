@@ -1,6 +1,6 @@
 fail = 0
 quit = 0
-file_name = "Week 4/inventory.txt"
+file_name = "inventory.txt"
 history = []
 
 def get_valid_input(quantity):
